@@ -3,7 +3,7 @@
 ---
 
 ## Profile
-* Final-year Software Development student with a strong academic background and full-stack enterprise internship experience...
+* Final-year Software Development student with a strong academic background and previous industry experience as a Software Developer Inter at the Department of Agriculture, Food and the Marine
 
 ## Education
 ### South East Technological University (Carlow, Ireland)
