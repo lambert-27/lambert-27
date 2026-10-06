@@ -8,7 +8,6 @@
 ## Education
 ### South East Technological University (Carlow, Ireland)
 * **Bachelor of Science (Honours) in Software Development** (Sep. 2023 -- May 2027)
-* Year 1 GPA: 86.50%, Year 2 GPA: 86.91%
 
 ## Experience
 ### **Department of Agriculture, Food and the Marine** | Johnstown Castle, Co. Wexford
