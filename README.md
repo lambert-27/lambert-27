@@ -1,16 +1,16 @@
-## Hi there 👋
+# Mark Lambert
+**Co. Wexford** | [LinkedIn](https://www.linkedin.com/in/mark-lambert-27tw721921/) 
+---
 
-<!--
-**lambert-27/lambert-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+* Final-year Software Development student with a strong academic background and full-stack enterprise internship experience...
 
-Here are some ideas to get you started:
+## Education
+### South East Technological University (Carlow, Ireland)
+* **Bachelor of Science (Honours) in Software Development** (Sep. 2023 -- May 2027)
+* Year 1 GPA: 86.50%, Year 2 GPA: 86.91%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+### **Department of Agriculture, Food and the Marine** | Johnstown Castle, Co. Wexford
+*Software Developer Intern* (Jan. 2026 -- Sept. 2026)
+* Developed full-stack enterprise applications utilizing Java, Angular, and Oracle SQL while implementing REST APIs. Performed PoC on Geospatial Analysis using GeoServer
